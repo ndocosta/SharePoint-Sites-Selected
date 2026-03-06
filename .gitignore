@@ -1,0 +1,9 @@
+# Certificate files (contain private keys — never commit these)
+Certificates/*.pfx
+Certificates/*.cer
+Certificates/*.pem
+Certificates/*.key
+Certificates/*-registration-details.txt
+
+# Keep the folder itself
+!Certificates/.gitkeep

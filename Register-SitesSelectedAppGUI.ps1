@@ -44,7 +44,7 @@ Add-Type -AssemblyName WindowsBase
 <Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Register Sites.Selected App"
-        Width="700" Height="720"
+        Width="700" Height="1020"
         WindowStartupLocation="CenterScreen"
         Background="#F5F5F5">
     <Window.Resources>
